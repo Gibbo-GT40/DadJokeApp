@@ -1,2 +1,0 @@
-# DadJokeApp
-Created with CodeSandbox
